@@ -23,6 +23,6 @@
 
 
 📫 Let’s Connect!  
-- 💬 Discord: [Your Discord Username]  
+- 💬 Discord: [Kunal82917]  
 - 📸 Instagram: [Kunal_g_8392]  
 - 🛠️ Check out my projects here on GitHub – feel free to collaborate or share feedback!
