@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @kunal82917
-- 👀 I’m interested in cybersecurity and ethical hacking
-- 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on github or discord
-- 📫 How to reach me instagram id: kunal_g_8392
-- 😄 Pronouns: he/him
+👋 Hey there, I’m Kunal!  
 
-<!---
-kunal82917/kunal82917 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+💻 Computer Science Enthusiast | 🌐 Cybersecurity & Blockchain Explorer | 🕵️ Ethical Hacker in the Making
+
+
+👨‍💻 About Me:  
+- 🎓 19-year-old Computer Science Student diving into Cybersecurity and Blockchain Technology.  
+- 💡 Passionate about ethical hacking and exploring the digital realm responsibly.  
+- 🧑‍💻 Coding Languages I Know:  
+  - C - My first step into the world of programming.  
+  - Python - For automating tasks and building cool projects.  
+  - HTML - Crafting the skeletons of the web.  
+- 🌍 Vocal Languages I Know:  
+  - English - Fluent and ready for global conversations.  
+  - Japanese - Still learning, but enjoying the journey!  
+
+
+ 🚀 Fun Facts:  
+- 🌱 I’m constantly learning and evolving, just like the tech world.  
+- 🎮 Love story-based games that spark creativity and feel as satisfying as ASMR!  
+- 📚 Working on becoming Kunal 2.0 – a confident, resourceful, and skilled individual.  
+
+
+📫 Let’s Connect!  
+- 💬 Discord: [Your Discord Username]  
+- 📸 Instagram: [Kunal_g_8392]  
+- 🛠️ Check out my projects here on GitHub – feel free to collaborate or share feedback!
