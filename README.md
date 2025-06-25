@@ -1,16 +1,17 @@
-## Hi there 👋
+hii,
 
-<!--
-**kunal82917/kunal82917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kunal. i am a computer science student majoring in cybersecurity and block chain technology. 
 
-Here are some ideas to get you started:
+I am 19 years old. I am passionate in ethical hacking and cyber security. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know few coding languages : c, python. 
+
+Constantly learning and strengthening my knowledge towards new technology. 
+
+I know few vocal languages like English (fluent), Hindi (fluent), Japanese (beginner), Spanish (beginner).
+
+Apart from my academics, i love to play competitive games like valorant. 
+
+Currently i am working on improving myself by eliminating bad habits as much as possible and reducing procrastination and trying to learn more things. 
+
+You can connect with me on Instagram (kunal_g_8392), discord (kunal82917), github (kunal82917).
