@@ -34,8 +34,11 @@ jobs:
         run: python today.py
 
       - name: Commit and push changes if stats changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.link"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add dark_mode.svg light_mode.svg cache/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile stats [skip ci]" && git push)
